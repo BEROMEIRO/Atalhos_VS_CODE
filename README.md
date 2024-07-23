@@ -1,0 +1,121 @@
+# Atalhos para VS Code
+
+Alguns atalhos para VS Code que vão ajudar a aumentar sua produtividade e facilitar seu dia a dia como desenvolvedor.
+
+## Atalhos Para o VSCode
+
+- `Alt + (clique)` fixa o cursor em todos os pontos clicados
+- `Alt + (seta direcional)` move linha ou trecho do código selecionado
+- `Alt + F11` Executar Análise de Código na Solução
+- `Alt + F12` [Editor de Texto] Inspecionar Definição
+- `Alt + F4` Fechar
+- `Alt + Z` força de quebra linha
+- `Ctrl + '` abre ou data terminal integrado
+- `Ctrl + -` Navegar para trás
+- `Ctrl + ,` abre as configurações do VS Code
+- `Ctrl + .` Mostrar marca inteligente
+- `Ctrl + ;` comentar linha ou trecho do código selecionado
+- `Ctrl + \ , Ctrl + E` Lista de erros
+- `Ctrl + \ , Ctrl + M` TFS Team Explorer
+- `Ctrl + ]` faz dividir a tela
+- `Ctrl + = ou Ctrl + -` aumentar ou diminuir o zoom
+- `Ctrl + 0` redefinir o zoom
+- `Ctrl + A` Selecionar tudo
+- `Ctrl + Alt + Break` Quebrar tudo
+- `Ctrl + Alt + E` Exceções
+- `Ctrl + Alt + J` Navegador de objetos
+- `Ctrl + Alt + L` Gerenciador de soluções
+- `Ctrl + Alt + O` Saída
+- `Ctrl + Alt + P` Anexar ao processo
+- `Ctrl + Alt + Q` Inspeção Rápida
+- `Ctrl + Alt + S` Gerenciador de servidor
+- `Ctrl + Alt + Space` [Editor de Texto] Alternar o modo de conclusão
+- `Ctrl + Alt + X` Caixa de Ferramentas
+- `Ctrl + B` Interromper na função
+- `Ctrl + Backspace` [Editor de Texto] Excluir palavra até o início
+- `Ctrl + Break` Cancelar
+- `Ctrl + C` copiar linha ou trecho do código selecionado
+- `Ctrl + D` Ir para encontrar a combinação
+- `Ctrl + Delete` [Editor de Texto] Excluir palavra até o fim
+- `Ctrl + Enter` [Editor de Texto] Linha aberta acima
+- `Ctrl + F` Localizar
+- `Ctrl + F10` Executar até o cursor
+- `Ctrl + F12` Ir para a declaração
+- `Ctrl + F3` Localizar Próxima seleção
+- `Ctrl + F4` Fechar janela do documento
+- `Ctrl + F5` Iniciar sem depuração
+- `Ctrl + F6` Próxima janela do documento
+- `Ctrl + F7` Compilar
+- `Ctrl + G` abre caixa de busca pelo número da linha
+- `Ctrl + H` Substitua
+- `Ctrl + J` [Editor de Texto, Designer de Fluxo de Trabalho] Listar os membros
+- `Ctrl + K, Ctrl + D` [Editor de Texto] Formatar documento
+- `Ctrl + K, Ctrl + F` [Editor de Texto] Formatar seleção
+- `Ctrl + K, Ctrl + K` [Editor de Texto] Ativar/desativar indicador
+- `Ctrl + K, Ctrl + S` Envolver com
+- `Ctrl + K, Ctrl + U` [Editor de Texto] Remover Comentários da Seleção
+- `Ctrl + K, Ctrl + X` Inserir Snippet
+- `Ctrl + K, Ctrl + C` Comentar seleção
+- `Ctrl + L` [Editor de Texto] Corte de linha
+- `Ctrl + M, Ctrl + L` [Editor de Texto] Ativar/Desativar estrutura de tópicos para tudo
+- `Ctrl + M, Ctrl + M` [Editor de Texto] Ativar/Desativar Expansão da Estrutura de Tópicos
+- `Ctrl + M, Ctrl + O` Recolher para definições
+- `Ctrl + N` Novo arquivo
+- `Ctrl + O` Abrir arquivo
+- `Ctrl + P` busca arquivos no diretório
+- `Ctrl + page up/down` alternar entre arquivos
+- `Ctrl + R, Ctrl + G` [Editor de Texto] Remover e classificar usos
+- `Ctrl + R, Ctrl + M` Extrair método
+- `Ctrl + S` Salvar Itens selecionados
+- `Ctrl + Shift + -` Navegar para frente
+- `Ctrl + Shift + A` Adicionar novo item
+- `Ctrl + Shift + B` Solução de compilação
+- `Ctrl + Shift + Barra de espaços` [Editor de Texto, Designer de Fluxo de Trabalho] Informações de parâmetro
+- `Ctrl + Shift + C` Exibição de classe
+- `Ctrl + Shift + F` Localizar nos arquivos
+- `Ctrl + Shift + F10` Definir próxima instrução
+- `Ctrl + Shift + F5` Reiniciar
+- `Ctrl + Shift + F9` Excluir todos os pontos de interrupção
+- `Ctrl + Shift + G` Abrir arquivo
+- `Ctrl + Shift + N` Novo Projeto
+- `Ctrl + Shift + O` Abrir projeto
+- `Ctrl + Shift + P` mostra todos os comandos disponíveis no VS Code (Ex.: reload, reset, clear)
+- `Ctrl + Shift + S` Salvar tudo
+- `Ctrl + Shift + W` Exibir no navegador
+- `Ctrl + TAB` alternativa entre arquivos (ideal para 02 arquivos)
+- `Ctrl + V` cola linha ou trecho do código selecionado
+- `Ctrl + W` [Editor de Texto] Selecionar a palavra atual
+- `Ctrl + X` recorta linha ou trecho do código selecionado
+- `Ctrl + Y` Refazer
+- `Ctrl + Z` Desfazer
+- `Esc` Ativar janela do documento
+- `F10` Passar por
+- `F11` Avançar
+- `F12` Ir para definição
+- `F2` Editar rótulo
+- `F3` Localizar próximo
+- `F4` Janela de Propriedades
+- `F5` Iniciar
+- `F6` Próximo painel dividido
+- `F8` Ir para o próximo local
+- `F9` Alterna um ponto de interrupção
+- `Shift + (seta direcional)` selecione o intervalo de código
+- `Shift + Alt + A` Adicionar item existente
+- `Shift + Alt + F` formato de documento
+- `Shift + Alt + N` Novo site
+- `Shift + Alt + O` Abrir site
+- `Shift + Alt + Seta para Baixo` [Editor de Texto] Coluna de extensão de linha para baixo
+- `Shift + F11` Sair
+- `Shift + F12` Localizar todas as referências
+- `Shift + F5` Parar a depuração
+- `Shift + F7` [Modo Código-fonte do Editor de HTML] Designer de exibição
+- `Shift + Tab` [Editor de Texto, Designer de Relatórios, Editor de Formulários do Windows] Tabulação à esquerda
+- `Shift + END` selecione todo o conteúdo da linha
+- `Shift + HOME` selecione todo o conteúdo da linha
+- `Tab` [Designer de Relatórios, Designer de Formulários do Windows, Editor de Texto] Guia Inserir
+- `Tecla END` mova o cursor para o fim da linha
+- `Tecla HOME` mova o cursor para o início da linha
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-romeiro-3209b5230/)
